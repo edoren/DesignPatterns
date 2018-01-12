@@ -1,0 +1,5 @@
+# Default Build Folder
+build/
+
+# Visual Studio Code
+.vscode/
